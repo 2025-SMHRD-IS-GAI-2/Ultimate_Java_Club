@@ -1,0 +1,9 @@
+package 이중for문;
+
+public class Ex02별찍기 {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
